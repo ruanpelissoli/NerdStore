@@ -1,0 +1,3 @@
+D:\Dev\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Data.csprojAssemblyReference.cache
+D:\Dev\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Data.AssemblyInfoInputs.cache
+D:\Dev\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.0\NerdStore.Vendas.Data.AssemblyInfo.cs

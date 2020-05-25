@@ -1,0 +1,4 @@
+D:\Dev\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.0\NerdStore.WebApp.MVC.csprojAssemblyReference.cache
+D:\Dev\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.0\NerdStore.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.0\NerdStore.WebApp.MVC.AssemblyInfoInputs.cache
+D:\Dev\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.0\NerdStore.WebApp.MVC.AssemblyInfo.cs
